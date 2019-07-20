@@ -1,2 +1,2 @@
-once upon a time
+once upon time
 there was a man
