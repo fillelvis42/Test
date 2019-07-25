@@ -10,7 +10,7 @@
                           "Statement": [ {
                             "Effect": "Allow",
                             "Principal": {
-                               "Service": [ "*" ]
+                               "Service": [ "datapipeline.amazonaws.com" ]
                             },
                             "Action": [ "sts:AssumeRole" ]
                          } ]
