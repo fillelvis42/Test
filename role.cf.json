@@ -10,7 +10,7 @@
                           "Statement": [ {
                             "Effect": "Allow",
                             "Principal": {
-                               "Service": [ "ec2.&api-domain;" ]
+                               "Service": [ "*" ]
                             },
                             "Action": [ "sts:AssumeRole" ]
                          } ]
