@@ -1,4 +1,5 @@
 #This is my first program
+#I love python
 c = input("Enter first_name: ")
 d = input("Enter last_name: ")
 a = float(input("Enter first_num: "))
